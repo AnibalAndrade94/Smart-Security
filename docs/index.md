@@ -8,7 +8,7 @@ With the goal of addressing this problem we have created a video surveillance pr
 
 In general, our video surveillance system is capable of acquiring a video stream from a set of cameras connected to the network, process that information to detect motion, classify moving objects and track them; report a description of what is happening in a monitored area, store the information on a remote server, and help the users to take the appropriate action.
 
-## Interfaz
+## Interface
 
 The User interface was build using the Web2Py Framework, which allows the fast development of Web Applications with Python language as it core. This framework uses the MVC (Model-View-Controller) architectural pattern to build up the web applications.
 
