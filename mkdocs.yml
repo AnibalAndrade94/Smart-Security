@@ -1,0 +1,6 @@
+site_name: Smart Security Manual
+pages:
+    - Whatś Smart Security?: index.md
+    - Interface: interface.md
+    - Architecture: architecture.md
+    - Kurento Application: kurento.md
